@@ -1,0 +1,15 @@
+/Users/aleksejzajcev/Desktop/GR3211FerstProgramming/GR3211FerstProgramming/Sem1Task0/bin/Debug/net6.0/Sem1Task0
+/Users/aleksejzajcev/Desktop/GR3211FerstProgramming/GR3211FerstProgramming/Sem1Task0/bin/Debug/net6.0/Sem1Task0.deps.json
+/Users/aleksejzajcev/Desktop/GR3211FerstProgramming/GR3211FerstProgramming/Sem1Task0/bin/Debug/net6.0/Sem1Task0.runtimeconfig.json
+/Users/aleksejzajcev/Desktop/GR3211FerstProgramming/GR3211FerstProgramming/Sem1Task0/bin/Debug/net6.0/Sem1Task0.dll
+/Users/aleksejzajcev/Desktop/GR3211FerstProgramming/GR3211FerstProgramming/Sem1Task0/bin/Debug/net6.0/Sem1Task0.pdb
+/Users/aleksejzajcev/Desktop/GR3211FerstProgramming/GR3211FerstProgramming/Sem1Task0/obj/Debug/net6.0/Sem1Task0.csproj.AssemblyReference.cache
+/Users/aleksejzajcev/Desktop/GR3211FerstProgramming/GR3211FerstProgramming/Sem1Task0/obj/Debug/net6.0/Sem1Task0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejzajcev/Desktop/GR3211FerstProgramming/GR3211FerstProgramming/Sem1Task0/obj/Debug/net6.0/Sem1Task0.AssemblyInfoInputs.cache
+/Users/aleksejzajcev/Desktop/GR3211FerstProgramming/GR3211FerstProgramming/Sem1Task0/obj/Debug/net6.0/Sem1Task0.AssemblyInfo.cs
+/Users/aleksejzajcev/Desktop/GR3211FerstProgramming/GR3211FerstProgramming/Sem1Task0/obj/Debug/net6.0/Sem1Task0.csproj.CoreCompileInputs.cache
+/Users/aleksejzajcev/Desktop/GR3211FerstProgramming/GR3211FerstProgramming/Sem1Task0/obj/Debug/net6.0/Sem1Task0.dll
+/Users/aleksejzajcev/Desktop/GR3211FerstProgramming/GR3211FerstProgramming/Sem1Task0/obj/Debug/net6.0/refint/Sem1Task0.dll
+/Users/aleksejzajcev/Desktop/GR3211FerstProgramming/GR3211FerstProgramming/Sem1Task0/obj/Debug/net6.0/Sem1Task0.pdb
+/Users/aleksejzajcev/Desktop/GR3211FerstProgramming/GR3211FerstProgramming/Sem1Task0/obj/Debug/net6.0/Sem1Task0.genruntimeconfig.cache
+/Users/aleksejzajcev/Desktop/GR3211FerstProgramming/GR3211FerstProgramming/Sem1Task0/obj/Debug/net6.0/ref/Sem1Task0.dll
