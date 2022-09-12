@@ -3,14 +3,16 @@
 //  на выходе показывет последнюю цифру этого числа.
 //======================================================================
 
+// чтение данных из консоли.
 string? inputLine = Console.ReadLine();
-
+// получение данных.
 if (inputLine != null)
 {
     int inputNumber = int.Parse(inputLine);
     if (inputNumber > 99 && inputNumber<1000)
     {
         int lastDigit = inputNumber%10;
+        // вывод результата.
         Console.Write(lastDigit);
         
     }

@@ -3,8 +3,9 @@
 // выдавать название дня недели по заданному номеру.
 //=========================================================================
 
+// чтение данных из консоли.
 string? inputLine = Console.ReadLine();
-
+// получение данных.
 if (inputLine != null)
 {
     int inputDayOfWeek = int.Parse(inputLine);
@@ -20,10 +21,12 @@ if (inputLine != null)
 
     if (inputDayOfWeek > 7 || inputDayOfWeek < 1)
     {
+        // вывод результата.
         Console.WriteLine("Такого дня нет!");
     }
     else
     {
+        // вывод результата.
         Console.WriteLine(dayOfWeek[inputDayOfWeek - 1]);
     }
 }
